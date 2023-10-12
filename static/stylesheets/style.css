@@ -196,6 +196,11 @@ nav + .container {
   margin-left: 10px;
 }
 
+#header {
+  height: 360px;
+
+}
+
 #warbler-hero {
   height: 360px;
   margin-top: -16px;
